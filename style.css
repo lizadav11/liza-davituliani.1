@@ -1,0 +1,102 @@
+.menu {display: flex;
+        background-color: #f9efe3;
+        font-size: 30px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        gap: 100px;
+        justify-content: flex-end;
+        margin-bottom: 50px;
+        padding-right: 50px;}
+.active {background-color:#343333ba ;}
+
+header li a {color:#b9947b }
+nav a {text-decoration: none;
+     display: block;}
+     
+#logo { width: 350px;
+       height: auto;
+       padding-left: 10px;}
+       
+
+.footer {background-color: #b9947b;
+    display: flex;
+    align-items: flex-end;}
+.icons { display: flex;
+justify-content: space-around;
+gap: 200px;
+padding-left:150px;
+ padding-right: 100px;}
+
+#g {width: 35px;
+height: auto;}   
+#p {width: 35px;
+height: auto;}
+#f  {width: 35px;
+height: auto;
+padding-top: 15px;}        
+#i {width: 60px;
+height: auto;}
+
+.footer p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+
+#pm {width: 350px;
+     height: auto;
+     padding-left: 10px;
+     }
+
+#abme {color: #b9947b;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 35px;
+       padding-left: 650px;
+       padding-right: 650px;
+       padding-bottom: 20px;}
+
+#heart {padding-left: 650px;} 
+
+#intro {
+         color: #b9947b;
+         font-size:40px;
+         padding-left: 10px;
+         padding-right: 10px;
+         padding-top: 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.section1 {display: flex;}
+
+#chemze {padding-left: 10px;
+        padding-top: 50;
+        padding-right: 500px; 
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: #1b1a1aba;}
+
+#descriptions {padding-left: 10px;
+               color:#1b1a1aba;}
+
+
+#desctxt {font-size: 20px;
+          font-style: italic;
+          padding-left: 10px;}
+
+
+.Hphoto{display: flex;
+       gap: 100px;
+       padding-left: 10px;}
+
+
+#korea {width: 400px;
+        height: 350px;}       
+
+#s {width: 400px;
+    height: 550px}        
+
+
+#wangechi {font-size: 18px;
+    font-style: bold;
+    padding-left: 15px;}
+
+ form div { margin-bottom: 20px;}   
+ form {padding-left: 20px;}
+
+#contactinfo {padding-left: 650px;
+               background-color: #f9efe3;}
